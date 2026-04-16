@@ -1,0 +1,1 @@
+{"name": "nvidia-nemotron-model-reasoning", "version": "1.0.0", "description": "A basic Node.js project.", "main": "index.js", "scripts": { "test": "echo 'No tests specified' && exit 0" }, "author": "Devu911", "license": "MIT"}
